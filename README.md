@@ -16,9 +16,9 @@ Identifies when a rare Resource and ResourceGroup deployment occurs by a previou
 
 <b>Severity:</b> Low
 
-<b>Query:</b> <link>
+<b>Query:</b> <i>link to query</i>
 
-<b>Workbook Name:</b> <link>
+<b>Workbook Name:</b> <i>link to Workbook</i>
 
 <b>Playbook(s) Name(s):</b> 
 <ol>
