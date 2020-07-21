@@ -6,13 +6,13 @@ This repository provides guidance (or "recipes") for full handling of investigat
 <h3><b>Title:</b></h3> Title based on Incident name: Suspicious Resource deployment
 
 <hr>
-<h3><b>Brief Description:</b></h3> 
+<h3><b>Description:</b></h3> 
 Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller.
 </br>
 <b>Severity:</b> Low
 
 <b>MITRE:</b> <link> (MITRE : Impact) Techniques used by an attacker to impact the availability of systems, networks, and data. Methods in this category would include denial of service attacks and disk- or data-wiping software.
-
+<hr>
 <h3><b>Ingredients:</b></h3> 
 
 <b>Query:</b> <i>link to query</i>
@@ -24,7 +24,7 @@ Identifies when a rare Resource and ResourceGroup deployment occurs by a previou
 Get-GeoFromIpAndTagIncident: https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-GeoFromIpAndTagIncident
 Get-IPReputation:  https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-IPReputation
 	</ol>
-
+<hr>
 <h3><b>Directions:</b></h3> 
 
 <b>Steps</b>
