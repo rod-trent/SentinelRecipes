@@ -5,7 +5,7 @@ This repository provides guidance (or "recipes") for full handling of investigat
 
 <h3><b>Title:</b></h3> Title based on Incident name: Suspicious Resource deployment
 
-
+<hr>
 <h3><b>Brief Description:</b></h3> 
 Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller.
 </br>
