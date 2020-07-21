@@ -7,7 +7,7 @@ This repository provides guidance (or "recipes") for full handling of investigat
 
 <hr>
 <h3><b>Description:</b></h3> 
-Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller.
+<i>Description of the Incident, example: Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller</i>
 <br><br>
 <b>Severity:</b> Low
 <br><br>
