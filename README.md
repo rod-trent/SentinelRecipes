@@ -8,9 +8,9 @@ This repository provides guidance (or "recipes") for full handling of investigat
 <hr>
 <h3><b>Description:</b></h3> 
 Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller.
-</br>
+<br><br>
 <b>Severity:</b> Low
-
+<br><br>
 <b>MITRE:</b> <link> (MITRE : Impact) Techniques used by an attacker to impact the availability of systems, networks, and data. Methods in this category would include denial of service attacks and disk- or data-wiping software.
 <hr>
 <h3><b>Ingredients:</b></h3> 
