@@ -3,7 +3,7 @@ This repository provides guidance (or "recipes") for full handling of investigat
 
 <h1>Template</h1>
 
-<h3><b>Title:</b></h3> Title based on Incident name: Suspicious Resource deployment
+<h3><b>Title</b></h3> <i>Title based on Incident name, example: Suspicious Resource deployment</i>
 
 <hr>
 <h3><b>Description:</b></h3> 
