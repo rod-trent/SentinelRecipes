@@ -1,5 +1,5 @@
 # Azure Sentinel Recipes
-This repository provides guidance (or "recipes") for handling investigations and hunting specific to scenarios exposed by Incidents.
+This repository provides guidance (or "recipes") for full handling of investigations and hunting specific to scenarios exposed by Incidents. The "recipes" provide step-by-step guidance and include all collateral needed to complete an investigation.
 
 <h1>Template</h1>
 
