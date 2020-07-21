@@ -22,6 +22,7 @@ Identifies when a rare Resource and ResourceGroup deployment occurs by a previou
 <b>Playbook(s) Name(s):</b> 
 <ol>
 Get-GeoFromIpAndTagIncident: https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-GeoFromIpAndTagIncident
+	
 Get-IPReputation:  https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-IPReputation
 	</ol>
 <hr>
