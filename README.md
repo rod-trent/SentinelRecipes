@@ -3,30 +3,31 @@ This repository provides guidance (or "recipes") for handling investigations and
 
 <h1>Template</h1>
 
-Title: Suspicious Resource deployment
+<h3><b>Title:</b></h3> Suspicious Resource deployment
 
 
-Brief Description: 
+<h3><b>Brief Description:</b></h3> 
 Identifies when a rare Resource and ResourceGroup deployment occurs by a previously unseen Caller.
 
 
-Ingredients: 
+<h3><b>Ingredients:</b></h3> 
 
-MITRE: <link> (MITRE : Impact) Techniques used by an attacker to impact the availability of systems, networks, and data. Methods in this category would include denial of service attacks and disk- or data-wiping software.
-Severity: Low
-Query: <link>
-Workbook Name: <link>
-Playbook(s) Name(s): 
+<b>MITRE:</b> <link> (MITRE : Impact) Techniques used by an attacker to impact the availability of systems, networks, and data. Methods in this category would include denial of service attacks and disk- or data-wiping software.
+<b>Severity:</b> Low
+<b>Query:</b> <link>
+<b>Workbook Name:</b> <link>
+<b>Playbook(s) Name(s):</b> 
 Get-GeoFromIpAndTagIncident: https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-GeoFromIpAndTagIncident
 Get-IPReputation:  https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks/Get-IPReputation
 
-Directions: 
+<h3><b>Directions:</b></h3> 
 
-Steps
-	1. Do this.
-	2. Then, do this.
-	3. And, this.
-	4. Finally, do this.
+<b>Steps</b>
+<ol>
+	<li>1. Do this.</li>
+	<li>2. Then, do this.</li>
+	<li>3. And, this.</li>
+	<li>4. Finally, do this.</li>
+</ol>
 
-
-Next Steps
+<b>Next Steps</b>
